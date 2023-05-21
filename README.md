@@ -1,2 +1,2 @@
-# coursera
-Here i will push my coursera assignments
+I am editing the README file. Adding some more details about the project description.
+
